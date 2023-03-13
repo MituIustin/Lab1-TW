@@ -1,0 +1,43 @@
+header{
+    background-color: pink;
+    
+}
+html{
+    background-color: lightblue;
+}
+body{
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
+p{
+    margin:0;
+}
+h3{
+    margin-top: 100px;
+    text-align: center;
+    color:indigo;
+}
+article{
+    margin: 0;
+    
+}
+nav{
+    margin: 0;
+    padding:30px;
+}
+nav a{
+    margin-left: 100px;;
+    text-align: center;
+    
+}
+iframe{
+    padding: 100px;
+}
+main{
+    border : 2cm;
+    background-color: lightblue;
+    margin-top: 50;
+}
